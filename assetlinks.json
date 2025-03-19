@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.skilled2hire.apprenticeship",
+    "sha256_cert_fingerprints":
+    ["38:9B:57:BE:8A:EC:14:01:6F:71:53:94:37:45:E2:28:29:1A:0D:C3:89:3D:AA:B5:2F:FA:6E:AF:BD:D9:8B:BC"]
+  }
+}]
