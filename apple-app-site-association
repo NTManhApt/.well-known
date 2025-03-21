@@ -1,11 +1,15 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": “YB99Y74397.com.skilled2hire.apprenticeship"
-      "paths": ["/deeplink/*", "/"]
-    }
-    ]
-  }
-}
+		    "applinks": {
+		        "apps": [],
+		        "details": [
+		            {
+		               "appID": “YB99Y74397.com.skilled2hire.apprenticeship”,
+		                "paths": [ “/deeplink/"]
+		            },
+		            {
+		                "appID": “YB99Y74397.com.skilled2hire.apprenticeship”,
+		                "paths": [ "*" ]
+		            }
+		        ]
+		    }
+		}
