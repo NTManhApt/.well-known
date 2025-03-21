@@ -4,11 +4,11 @@
 		        "apps": [],
 		        "details": [
 		            {
-		               "appID": “YB99Y74397.com.skilled2hire.apprenticeship”,
+		               "appID": “YB99Y74397.com.skilled2hire.apprenticeships”,
 		                "paths": [ “/deeplink/"]
 		            },
 		            {
-		                "appID": “YB99Y74397.com.skilled2hire.apprenticeship”,
+		                "appID": “YB99Y74397.com.skilled2hire.apprenticeships”,
 		                "paths": [ "*" ]
 		            }
 		        ]
